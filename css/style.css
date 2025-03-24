@@ -1,0 +1,36 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #FEF9E1;
+  color: #333;
+}
+
+header {
+  background-color: #C14600 !important;
+}
+
+.cta {
+  background-color: #C14600 !important;
+  color: #FEF9E1;
+}
+
+.btn-warning {
+  background-color: #FF9D23;
+  border: none;
+  color: white;
+}
+
+.btn-warning:hover {
+  background-color: #e38b1a;
+}
+
+.card {
+  background-color: #E5D0AC;
+  border: none;
+  color: #333;
+}
+
+footer {
+  background-color: #E5D0AC;
+  color: #333;
+}
